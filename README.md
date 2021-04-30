@@ -12,8 +12,12 @@
 * unet
 * segnet
 
+## 文件说明
+net 定义分割网络结构
+main.py 主程序
+demo 示例用图
+resdemo 分割结果
+
 ## 示例
 
 ![demo](https://github.com/TrueNobility303/pytorch-segentation/blob/master/demo/foggy1.png)
-
-![res](https://github.com/TrueNobility303/pytorch-segentation/blob/master/resdemo/foggy_fcn8/res_foggy1.png)
