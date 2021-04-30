@@ -14,6 +14,6 @@
 
 ## 示例
 
-! [demo] (https://github.com/TrueNobility303/pytorch-segentation/blob/master/demo/foggy1.png)
+![demo](https://github.com/TrueNobility303/pytorch-segentation/blob/master/demo/foggy1.png)
 
-! [res] (https://github.com/TrueNobility303/pytorch-segentation/blob/master/resdemo/fcn8/res_foggy1.png)
+![res](https://github.com/TrueNobility303/pytorch-segentation/blob/master/resdemo/foggy_fcn8/res_foggy1.png)
