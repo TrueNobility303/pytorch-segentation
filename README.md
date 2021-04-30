@@ -17,6 +17,7 @@
 * main.py 主程序
 * demo 示例用图
 * resdemo 分割结果
+* segmetation.pdf 报告和代码说明
 
 ## 示例
 
