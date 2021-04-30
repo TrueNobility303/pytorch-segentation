@@ -13,10 +13,10 @@
 * segnet
 
 ## 文件说明
-net 定义分割网络结构
-main.py 主程序
-demo 示例用图
-resdemo 分割结果
+* net 定义分割网络结构
+* main.py 主程序
+* demo 示例用图
+* resdemo 分割结果
 
 ## 示例
 
