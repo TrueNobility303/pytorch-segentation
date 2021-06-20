@@ -22,10 +22,10 @@
 
 ## 示例
 
-![sunny](https://github.com/TrueNobility303/pytorch-segentation/tree/master/results/sunny_cmp_img.png)
+![](https://github.com/TrueNobility303/pytorch-segentation/tree/master/results/sunny_cmp_img.png)
 
 <center> 晴天训练结果 </center>
 
-![foggy](https://github.com/TrueNobility303/pytorch-segentation/tree/master/results/foggy_cmp_img.png)
+![](https://github.com/TrueNobility303/pytorch-segentation/tree/master/results/foggy_cmp_img.png)
 
 <center> 跨域雾天结果</center>
