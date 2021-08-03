@@ -1,5 +1,43 @@
 # segentation
 
+## Abstract
+
+Implement classic segmentation models with pytorch.
+
+We try to segment the roads in Cityscapes, which is a fundamental task in auo-driving.
+
+Plus, we test the models in both sunny and foggy envirments.
+
+We compared the following models:
+* bisenet
+* icnet
+* fcn8/16/32
+* linknet
+* pspnet
+* unet
+* segnet
+
+And BiSeNet is the best of them.
+
+Please refer to out report to more details!
+
+## Files
+* \net: network models
+* main.py: main program 
+* \demo: demo images
+* \resdemo: the segmentation result of the demo images
+* segmetation.pdf: report
+
+## Demo
+
+![sunny](https://github.com/TrueNobility303/pytorch-segentation/tree/master/results/sunny_cmp_img.png)
+
+<center> Sunny Cityscapes </center>
+
+![foggy](https://github.com/TrueNobility303/pytorch-segentation/tree/master/results/foggy_cmp_img.png)
+
+<center> Foggy Cityscapes </center>
+
 ## 摘要
 利用pytorch实现经典语义分割网络，基于卷积神经网络，探究了使用卷积神经网络进行语义分割
 并且探究了图片级联模块、特征金字塔模块、跳层连接等结构的作用
